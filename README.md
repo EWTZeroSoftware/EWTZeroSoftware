@@ -19,7 +19,7 @@ Transformamos desafios técnicos em soluções práticas: entregamos código bem
 
 ---
 
-## 🛠 Tecnologias (exemplos)
+## 🛠 Tecnologias
 - **Linguagens & runtime:** Node.js, JavaScript/TypeScript  
 - **Bancos:** CouchDB (NoSQL) e opções relacionais quando necessárias  
 - **Infra & DevOps:** CI/CD, containers, monitoramento e cloud (AWS / Azure / GCP)  
