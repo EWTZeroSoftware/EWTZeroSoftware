@@ -29,7 +29,7 @@ Transformamos desafios técnicos em soluções práticas: entregamos código bem
 
 ## 💬 Contato
 - Site: https://ewtzero.com.br  
-- Email comercial: `contato@ewtzero.com.br` *(substitua conforme necessário)*  
+- Email comercial: `contato@ewtzero.com.br` 
 - WhatsApp / Telefone: (45) 9 9846-4257
 
 ---
