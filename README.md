@@ -15,7 +15,7 @@ Utilizamos tecnologias modernas como **Node.js** e **CouchDB** para criar sistem
 ---
 
 ## 🧭 Nossa proposta de valor
-Transformamos desafios técnicos em soluções práticas: entregamos código bem documentado, arquitetura escalável e suporte contínuo — com foco em performance, segurança e redução de custo total de propriedade.
+Transformamos desafios técnicos em soluções práticas: entregamos código bem documentado, arquitetura escalável e suporte contínuo — com foco em performance, segurança e redução de custo total de propriedade de software.
 
 ---
 
